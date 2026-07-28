@@ -4,7 +4,6 @@
 ![Dependency](https://img.shields.io/badge/Dependency-openpyxl-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-A Python automation tool that transforms raw Excel sales data into a structured sales analysis report.
 
 The program reads sales spreadsheets, validates required columns, calculates key business metrics, analyzes revenue performance, and generates a formatted Excel report automatically.
 
