@@ -34,7 +34,8 @@ Sales reports often require repetitive manual work:
 - Comparing category performance
 - Preparing formatted summaries
 
-Performing these tasks manually can be time-consuming and prone to errors.
+
+
 
 ---
 
