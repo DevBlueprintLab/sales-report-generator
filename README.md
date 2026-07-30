@@ -35,7 +35,7 @@ Sales reports often require repetitive manual work:
 - Preparing formatted summaries
 
 
-
+Performing these tasks manually can be time-consuming and prone to errors.
 
 ---
 
