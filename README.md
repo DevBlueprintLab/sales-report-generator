@@ -162,7 +162,7 @@ Reports/
 ```text
 sales-report-generator/
 
-├── sales_report_generator.py       # Main automation script
+├── main.py       # Main automation script
 ├── README.md                       # Project documentation
 ├── requirements.txt                # Project dependencies
 ├── sample_data/
