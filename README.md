@@ -118,7 +118,7 @@ pip install -r requirements.txt
 ## 3. Run the generator
 
 ```bash
-python sales_report_generator.py
+python main.py
 ```
 
 ## 4. Select your Excel file and worksheet
