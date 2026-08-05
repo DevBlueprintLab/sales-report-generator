@@ -12,7 +12,7 @@ The program reads sales spreadsheets, validates required columns, calculates key
 
 # 🖥️ Demo
 
-### Sales Data ➜ Automated Analysis ➜ Generated Report
+
 
 <p align="center">
   <img src="images/sales-input.png" width="380" alt="Raw sales spreadsheet" />
