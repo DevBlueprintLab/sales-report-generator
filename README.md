@@ -25,7 +25,7 @@ The program reads sales spreadsheets, validates required columns, calculates key
 
 ---
 
-
+# 🎯 Problem
 
 Sales reports often require repetitive manual work:
 
